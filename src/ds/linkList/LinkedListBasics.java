@@ -33,7 +33,7 @@ public class LinkedListBasics {
     }
 
     public static void main(String[] args) {
-// Creating Linked List: 1 -> 2 -> 3 -> 4 -> 5
+        // Creating Linked List: 1 -> 2 -> 3 -> 4 -> 5
         ListNode head = new ListNode(1);
         head.next = new ListNode(2);
         head.next.next = new ListNode(3);
